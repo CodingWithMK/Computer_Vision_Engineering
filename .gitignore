@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Env
+cv_env/
+env/
+venv/
+.cv_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.tif
+*.gif
+*.webp
+
+# Dataset folders
+images/
+imgs/
+data/
+datasets/
